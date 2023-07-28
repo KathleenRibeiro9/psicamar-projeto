@@ -1,0 +1,39 @@
+.uteis-lista {
+    padding-top: 60px;
+    padding-bottom: 120px;
+}
+
+.uteis-lista h2 {
+    margin-bottom: 40px;
+}
+
+.uteis-lista ul {
+    display: flex;
+    gap: 40px;
+    padding: 0 20px;
+    max-width: 1400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+article img {
+    width: 1000px;
+}
+
+.uteis-lista {
+    background-color: #F6E0D5;
+}
+
+.uteis-lista a {
+    display: block;
+}
+
+.uteis-lista img {
+    margin-bottom: 16px;
+}
+
+.uteis-lista h3 {
+    margin-bottom: 8px;
+    display: flex;
+    align-items: center;
+}

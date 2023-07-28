@@ -1,0 +1,19 @@
+.footer-bg {
+    background-color: #B35633;
+}
+
+.logo {
+    width: 150px;
+}
+
+.github {
+    width: 30px;
+}
+
+footer {
+display: flex;
+justify-content: center;
+align-items: center;
+flex-direction: column;
+text-align: center;
+}
