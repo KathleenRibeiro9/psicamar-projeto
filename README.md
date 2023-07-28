@@ -7,7 +7,7 @@ consiste em uma plataforma sobre o projeto social que luta pela psicoterapia a p
 Criado um site usando HTML, CSS e JAVASCRIPT, com base no curso da Reprograma. 
 
 
-O website na íntegra pode ser conferido no seguinte link: 
+O website na íntegra pode ser conferido no seguinte link: https://projetopsicamar.netlify.app/
 ## Sobre o Site:
 
 O site contém: 
