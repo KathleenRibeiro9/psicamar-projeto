@@ -39,7 +39,7 @@ Javascript, HTML, CSS, GITHUB, NETLIFY
 
 
 ## Quem sou eu? 💖
-Meu nome é Kathleen, sou natural e residente de São Vicente, na baixada santista de São Paulo, e sou aluna do curso de front end da {reprograma}.
+Meu nome é Kathleen, sou natural e residente de São Vicente, na baixada santista de São Paulo, e sou aluna do curso de front end da {reprograma}.  <3
 
 <p float="left">
 
