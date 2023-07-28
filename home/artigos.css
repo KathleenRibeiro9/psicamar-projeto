@@ -1,0 +1,59 @@
+#home {
+    background: #F2F3F5;
+}
+
+.artigos {
+    background: #ffffff;
+}
+
+.holder{
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+    padding: 70px;
+}
+
+.holder h1{
+    margin: 0;
+    padding: 0;
+    font-size: 1.1rem;
+    font-weight: 100;
+}
+
+.holder-a {
+    padding: 35px;
+}
+
+
+.holder-b, .holder-a{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.shape{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 3rem;
+    height: 3rem;
+    border-radius: 50%;
+    padding: .5rem;
+    background: linear-gradient(90deg, rgba(255,145,77,1) 40%, rgba(255,49,49,1) 100%);
+}
+
+.wider{
+    width: 8rem;
+    border-radius: 3rem;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 0.5rem;
+}
+
+.minha-rede {
+    color: #ffffff;
+}
+
+footer {
+    font-family: 'Poppins', sans-serif;
+}

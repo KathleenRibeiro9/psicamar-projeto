@@ -1,0 +1,40 @@
+@import "./style/global.css";
+@import "./utilidades/tipografia.css";
+
+@import "./style/header.css";
+
+
+
+/* UTILIDADES */
+@import "./utilidades/componentes.css";
+
+
+/* LINKS UTEIS HOME */
+@import "./style/uteis.css";
+
+
+
+/* HOME */
+@import "./home/introducao.css";
+@import "./home/artigos.css";
+
+/* QUEM SOMOS */
+@import "./home/quemsomos.css";
+
+/* FOOTER */
+@import "./style/footer.css";
+
+
+/* CONTATO */
+@import "./home/contato.css";
+@import "./utilidades/formulario.css";
+
+/* SE INSCREVA */
+@import "./inscricao/css/style.css";
+
+
+/* SLIDER */
+@import "./home/slide.css";
+
+
+

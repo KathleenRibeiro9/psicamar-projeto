@@ -1,0 +1,43 @@
+#seinscreva {
+    background: #F2F3F5;
+}
+
+section{
+    background: #F6E0D5;
+    font: 400 1.5rem/1.5 'Poppins', sans-serif;
+}
+
+
+section h1 {
+    text-align: center;
+    margin-top: 80px;
+    margin-bottom: 40px;
+    padding-top: 50px;
+}
+
+#form {
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+    width: 500px;
+    margin: 0 auto;
+}
+
+label {
+    font-weight: bold;
+    margin-bottom: 5px;
+}
+
+input, 
+select,
+textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    font-size: 1.1rem;
+}
+
+.botao {
+    margin-bottom: 90px;
+}
