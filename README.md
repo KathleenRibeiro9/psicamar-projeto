@@ -37,6 +37,14 @@ Contato: Uma parte de contato com informações como email, endereço e telefone
 ## 🛠 Ferramentas Usadas
 Javascript, HTML, CSS, GITHUB, NETLIFY
 
+## 🖥️ Como rodar o projeto localmente:
+Siga o passo a passo a seguir:
+| Passo | Comando/informação |
+| --------- | --------- |
+| Faça o fork	| botão de forkar |
+| Faça o clone	| git clone |
+| Acesse a pasta projeto |
+| Rode o projeto |
 
 ## Quem sou eu? 💖
 Meu nome é Kathleen, sou natural e residente de São Vicente, na baixada santista de São Paulo, e sou aluna do curso de front end da {reprograma}.  <3
