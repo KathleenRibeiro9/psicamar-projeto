@@ -35,7 +35,7 @@ Contato: Uma parte de contato com informações como email, endereço e telefone
 
  - Chat para suporte em tempo real com respostas de dúvidas comuns. 
 ## 🛠 Ferramentas Usadas
-Javascript, HTML, CSS, GITHUB, NETLIFY
+Javascript, HTML, CSS, GITHUB, NETLIFY & GITHUB
 
 ## 🖥️ Como rodar o projeto localmente:
 Siga o passo a passo a seguir:
